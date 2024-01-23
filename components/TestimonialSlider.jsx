@@ -23,11 +23,11 @@ const testimonialData = [
       "I count him braver who overcomes his desires than him who conquers his enemies, for the hardest victory is over self.",
   },
   {
-    image: "/t-avt-3.png",
-    name: "Vladimir Putin",
+    image: "/stm.png",
+    name: "Suleiman The Magnificent",
     position: "",
     message:
-      "It's better to be hanged for loyalty than rewarded for betrayal",
+      "He who has no bread has no authority.",
   },
 ];
 
