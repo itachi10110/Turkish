@@ -20,7 +20,7 @@ const Home = () => {
             exit="hidden"
             className="h1"
           >
-            Russian Portfolio <br /> of{" "}
+            Turkish Portfolio <br /> of{" "}
             <span className="text-accent">Salah Lazouach</span>
           </motion.h1>
 
@@ -33,9 +33,8 @@ const Home = () => {
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
             Passionate about securing the digital frontier, I am driven by an unwavering commitment to information security.
-            Eager to breathe life into my cybersecurity aspirations, I've chosen Russia for its rich history of technological innovation and its renowned expertise ,
-            especially in this field. I want as I want to breathe . Therefore I'll do whatever it takes to turn that dream into reality .
-            Ура! 
+            Eager to breathe life into my cybersecurity aspirations, I've chosen Turkey for its rich history of technological innovation and its renowned expertise. I want as I want to breathe . Therefore I'll do whatever it takes to turn that dream into reality .
+             Türkiye'yi seviyorum! 
           </motion.p>
 
           {/* btn */}
