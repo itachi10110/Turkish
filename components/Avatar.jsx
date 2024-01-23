@@ -6,8 +6,6 @@ const Avatar = () => {
       <Image
         src="/avatar.png"
         alt="avatar"
-        height="384"
-        width="384"
       />
     </div>
   );
