@@ -19,7 +19,7 @@ const Layout = ({ children }) => {
     >
       {/* metadata */}
       <Head>
-        <title>добро пожаловать в мое портфолио</title>
+        <title>Portföyüme hoş geldiniz!</title>
         <meta
           name="description"
           />
