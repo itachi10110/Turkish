@@ -6,6 +6,7 @@ const Avatar = () => {
       <Image
         src="/avatar.png"
         alt="avatar"
+        className="translate-z-0 w-full h-full"
       />
     </div>
   );
